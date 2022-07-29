@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.wesleyq.me/
-title: Wesley W. Q.
-email: wesley.chin0919@gmail.com
-author: Wesley Wei Qian
-description: > # "Wesley Wei Qian's Personal Page"
+url: http://rick.gerk.in/
+title: Rick Gerkin
+email: rgerkin at gmail dot com
+author: Richard C Gerkin
+description: > # "Rick Gerkin's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,19 +26,19 @@ gems:
 social:
   - icon: linkedin
     title: linkedin
-    url: https://www.linkedin.com/in/wesleyq
+    url: https://www.linkedin.com/in/rgerkin
   - icon: flask
     title: scholar
-    url: https://scholar.google.com/citations?user=SZ5EErcAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=GzG5kRAAAAAJ&hl=en
   - icon: github
     title: github
-    url: https://github.com/WesleyyC
+    url: https://github.com/rgerkin
   - icon: twitter
     title: twitter
-    url: https://twitter.com/WesleyQian
+    url: https://twitter.com/rgerkin
   - icon: file-pdf-o
     title: resume
-    url: http://www.wesleyq.me/rsc/resume.pdf
+    url: http://rick.gerk.in/cv
   - icon: envelope-o
     title: email
-    url: mailto:wesley.chin0919@gmail.com
+    url: mailto:rgerkin at gmail dot com
